@@ -4,7 +4,7 @@ A Python-based console dashboard built using **Object-Oriented Programming (OOP)
 
 ---
 
-## 📖 Overview
+##  Overview
 
 PÄM Command Center was developed as a practical OOP learning project while studying Python. Instead of using simple examples, the application simulates a real-world personal management system that organizes technical projects, learning progress, and future objectives in a structured and professional manner.
 
