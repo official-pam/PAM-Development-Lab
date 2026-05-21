@@ -1,4 +1,4 @@
-# 🚀 PÄM Command Center
+# PÄM Command Center
 
 A Python-based console dashboard built using **Object-Oriented Programming (OOP)** and the **PrettyTable** library. The project serves as a personal command center for tracking projects, skills, and goals related to Mechatronics Engineering, Artificial Intelligence, Robotics, Programming, and Entrepreneurship.
 
@@ -12,7 +12,7 @@ The application demonstrates how classes and objects can be used to model real e
 
 ---
 
-## ✨ Features
+##Features
 
 - View ongoing and planned projects
 - Track technical skills and proficiency levels
@@ -25,18 +25,7 @@ The application demonstrates how classes and objects can be used to model real e
 
 ---
 
-## 🛠 Technologies Used
+##Technologies Used
 
 - Python 3
 - PrettyTable
-
----
-
-## 📂 Project Structure
-
-```text
-pam-command-center/
-│
-├── main.py
-├── README.md
-└── requirements.txt
